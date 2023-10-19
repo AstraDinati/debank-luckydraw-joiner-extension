@@ -1,7 +1,7 @@
 // content.js
 
 // Constants and Selectors
-const SCROLL_AMOUNT = 1400;
+const SCROLL_AMOUNT = 1000;
 const MIN_SLEEP_TIME = 1000;
 const MAX_SLEEP_TIME = 2000;
 const JOIN_DRAW_MODAL_SELECTOR = '.JoinDrawModal_joinDraw__30-Mo';
