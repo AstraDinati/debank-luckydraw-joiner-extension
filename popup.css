@@ -1,0 +1,50 @@
+.main-div {
+    height: 100%;
+    width: 300px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+}
+
+.ext_button {
+    display: block;
+    margin: 0 0 20px 0;
+}
+
+.ext_button button {
+    height: 30px;
+    width: 150px;
+    border-width: medium;
+    border-radius: 60px;
+    border-color: black;
+    background-color: aqua;
+    outline: none;
+}
+
+.ext_button button:hover {
+    border-color: white;
+}
+
+.moving_buttons {
+    display: inline;
+}
+
+#nextPage {
+    width: 100px;
+}
+
+#goToBottom {
+    width: 100px;
+}
+
+#loadFunctions {
+    background-color: coral;
+}
+
+#sendInvites {
+    background-color: greenyellow;
+}
+
+#startButton {
+    background-color: darkorange;
+}
